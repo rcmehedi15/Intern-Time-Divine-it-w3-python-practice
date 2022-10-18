@@ -1,29 +1,29 @@
-# #assending
-# sortr = ['mehedi','rana','johir']
+#assending
+sortr = ['mehedi','rana','johir']
 
-# sortr.sort()
-# print(sortr)
+sortr.sort()
+print(sortr)
 
-# #desending
-# sortr = ['mehedi','rana','johir']
+#desending
+sortr = ['mehedi','rana','johir']
 
-# sortr.sort(reverse=True)
-# print(sortr)
+sortr.sort(reverse=True)
+print(sortr)
 
-# #lower
+#lower
 
-# lowerr = ["r", "v", "e", "c"]
+lowerr = ["r", "v", "e", "c"]
 
-# lowerr.sort(key = str.lower)
+lowerr.sort(key = str.lower)
 
-# print(lowerr)
+print(lowerr)
 
-# #reverse
+#reverse
 
-# reversee= ['a','b','v']
+reversee= ['a','b','v']
 
-# reversee.reverse()
-# print(reversee)
+reversee.reverse()
+print(reversee)
 
 
 fruits = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
