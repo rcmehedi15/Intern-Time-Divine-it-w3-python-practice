@@ -32,3 +32,9 @@ try:
         f.close()
 except:
         print("Something went wrong when opening the file")
+
+# Raise an exception
+
+r = "Hello"
+if not type(r) is int:
+    raise TypeError("Only integers are allowed")
